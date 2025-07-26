@@ -1,0 +1,3 @@
+GET  http://localhost:8080/recipes
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNha0BnbWFpbC5jb20iLCJleHAiOjE3NTM1MDA5MzAsInVzZXJpZCI6NX0.hekTJrATzJuCIkjXapDgP1B5NAEoDEff91Z9HgaXrlc

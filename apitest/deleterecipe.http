@@ -1,0 +1,13 @@
+DELETE http://localhost:8080/recipe/2
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNha0BnbWFpbC5jb20iLCJleHAiOjE3NTM1MzIzOTAsInVzZXJpZCI6NX0.YhkCRi9ZOyaL_FrygvIlMiyOyExdnXn9tN9032smiDg
+
+ 
+{
+
+"Title":       "Spaghetti",
+"Description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+"Instruction": "1. Boil pasta\n2. Cook pancetta\n3. Mix eggs and cheese\n4. Combine all"
+
+}
+
